@@ -1,0 +1,2205 @@
+2020-08-17 12:49:07 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-17 12:49:07 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D79F92802BD7F1EE053E12B3C0AFAA0_08172020091839086690_B3K-1334
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92802BD7F1EE053E12B3C0AFAA0_08172020091839086690_B3K
+
+
+2020-08-17 12:49:09 ERROR Communicator:458 - Connection reset
+com.fxcm.messaging.util.CommunicationException: Connection reset
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-17 12:49:09 ERROR Communicator:459 - Connection reset: Message type=U54
+112=GBDEMO_9D79F92802BD7F1EE053E12B3C0AFAA0_08172020091839086690_B3K-6807
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=894;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F92802BD7F1EE053E12B3C0AFAA0_08172020091839086690_B3K
+
+
+2020-08-17 12:49:12 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-17 13:21:04 ERROR Communicator:458 - Read timed out
+com.fxcm.messaging.util.CommunicationException: Read timed out
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-17 13:21:04 ERROR Communicator:459 - Read timed out: Message type=U54
+112=GBDEMO_9D79F92802BD7F1EE053E12B3C0AFAA0_08172020091839086690_B3K-1331
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F92802BD7F1EE053E12B3C0AFAA0_08172020091839086690_B3K
+
+
+2020-08-17 13:21:05 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-17 14:08:04 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-17 14:08:04 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D7A1C74A2047F20E053E12B3C0A0F16_08172020112110949832_OAD-454
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D7A1C74A2047F20E053E12B3C0A0F16_08172020112110949832_OAD
+
+
+2020-08-17 14:08:06 ERROR Communicator:458 - Connection reset
+com.fxcm.messaging.util.CommunicationException: Connection reset
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-17 14:08:06 ERROR Communicator:459 - Connection reset: Message type=U54
+112=GBDEMO_9D7A1C74A2047F20E053E12B3C0A0F16_08172020112110949832_OAD-2223
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=894;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A1C74A2047F20E053E12B3C0A0F16_08172020112110949832_OAD
+
+
+2020-08-17 14:08:09 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-17 14:11:00 ERROR Communicator:458 - Read timed out
+com.fxcm.messaging.util.CommunicationException: Read timed out
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-17 14:11:00 ERROR Communicator:459 - Read timed out: Message type=U54
+112=GBDEMO_9D7A1C74A2047F20E053E12B3C0A0F16_08172020112110949832_OAD-453
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A1C74A2047F20E053E12B3C0A0F16_08172020112110949832_OAD
+
+
+2020-08-17 14:11:01 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-18 11:34:51 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-18 11:34:51 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D79F929C7A17F1EE053E12B3C0AFAA0_08182020084751120294_WWK-1024
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F929C7A17F1EE053E12B3C0AFAA0_08182020084751120294_WWK
+
+
+2020-08-18 11:34:55 ERROR Communicator:458 - Connection reset
+com.fxcm.messaging.util.CommunicationException: Connection reset
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-18 11:34:55 ERROR Communicator:459 - Connection reset: Message type=U54
+112=GBDEMO_9D79F929C7A17F1EE053E12B3C0AFAA0_08182020084751120294_WWK-783
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=894;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F929C7A17F1EE053E12B3C0AFAA0_08182020084751120294_WWK
+
+
+2020-08-18 11:37:46 ERROR Communicator:458 - Read timed out
+com.fxcm.messaging.util.CommunicationException: Read timed out
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-18 11:37:46 ERROR Communicator:459 - Read timed out: Message type=U54
+112=GBDEMO_9D79F929C7A17F1EE053E12B3C0AFAA0_08182020084751120294_WWK-1023
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F929C7A17F1EE053E12B3C0AFAA0_08182020084751120294_WWK
+
+
+2020-08-18 15:54:37 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-18 15:54:37 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D79F92A21AA7F1EE053E12B3C0AFAA0_08182020130108599447_IV8-1258
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92A21AA7F1EE053E12B3C0AFAA0_08182020130108599447_IV8
+
+
+2020-08-18 15:54:39 ERROR Communicator:458 - Connection reset
+com.fxcm.messaging.util.CommunicationException: Connection reset
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-18 15:54:39 ERROR Communicator:459 - Connection reset: Message type=U54
+112=GBDEMO_9D79F92A21AA7F1EE053E12B3C0AFAA0_08182020130108599447_IV8-686
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92A21AA7F1EE053E12B3C0AFAA0_08182020130108599447_IV8
+
+
+2020-08-18 15:54:39 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-18 15:54:40 ERROR Communicator:458 - Data received in non-data state: 6
+com.fxcm.messaging.util.CommunicationException: Data received in non-data state: 6
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-18 15:54:40 ERROR Communicator:459 - Data received in non-data state: 6: Message type=U54
+112=GBDEMO_9D79F92A21AA7F1EE053E12B3C0AFAA0_08182020130108599447_IV8-688
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92A21AA7F1EE053E12B3C0AFAA0_08182020130108599447_IV8
+
+
+2020-08-18 16:27:01 ERROR Communicator:458 - Read timed out
+com.fxcm.messaging.util.CommunicationException: Read timed out
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-18 16:27:01 ERROR Communicator:459 - Read timed out: Message type=U54
+112=GBDEMO_9D7A1C7665B17F20E053E12B3C0A0F16_08182020135444119131_PMT-422
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=894;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A1C7665B17F20E053E12B3C0A0F16_08182020135444119131_PMT
+
+
+2020-08-19 20:53:31 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-19 20:53:31 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D79F92C84437F1EE053E12B3C0AFAA0_08192020183138109662_V7R-55
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92C84437F1EE053E12B3C0AFAA0_08192020183138109662_V7R
+
+
+2020-08-19 21:24:22 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-19 21:24:22 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D79F92C84437F1EE053E12B3C0AFAA0_08192020183138109662_V7R-58
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92C84437F1EE053E12B3C0AFAA0_08192020183138109662_V7R
+
+
+2020-08-19 21:25:40 ERROR Communicator:458 - Read timed out
+com.fxcm.messaging.util.CommunicationException: Read timed out
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-19 21:25:40 ERROR Communicator:459 - Read timed out: Message type=U54
+112=GBDEMO_9D79F92C84437F1EE053E12B3C0AFAA0_08192020183138109662_V7R-33
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=894;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F92C84437F1EE053E12B3C0AFAA0_08192020183138109662_V7R
+
+
+2020-08-19 21:25:40 ERROR Communicator:458 - Read timed out
+com.fxcm.messaging.util.CommunicationException: Read timed out
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-19 21:25:40 ERROR Communicator:459 - Read timed out: Message type=U54
+112=GBDEMO_9D79F92C84437F1EE053E12B3C0AFAA0_08192020183138109662_V7R-54
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F92C84437F1EE053E12B3C0AFAA0_08192020183138109662_V7R
+
+
+2020-08-19 21:25:40 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-19 21:25:40 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-19 22:42:26 ERROR Communicator:458 - 
+com.fxcm.messaging.util.CommunicationException
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpReceive(HttpCommunicator.java:379)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnReceive(HttpCommunicator.java:142)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:443)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-19 22:42:26 ERROR Communicator:459 - null: Message type=BE
+112=1597865146301-45692-1
+553=D25822955
+336=FXCM
+625=GBDEMO
+923=1597865146301-45692-1
+924=0
+SID=1597865146301-45692
+
+
+2020-08-19 23:45:12 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-19 23:45:12 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D79F92CB7FF7F1EE053E12B3C0AFAA0_08192020204231726664_OS1-64
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92CB7FF7F1EE053E12B3C0AFAA0_08192020204231726664_OS1
+
+
+2020-08-19 23:48:07 ERROR Communicator:458 - Read timed out
+com.fxcm.messaging.util.CommunicationException: Read timed out
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-19 23:48:07 ERROR Communicator:459 - Read timed out: Message type=U54
+112=GBDEMO_9D79F92CB7FF7F1EE053E12B3C0AFAA0_08192020204231726664_OS1-63
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F92CB7FF7F1EE053E12B3C0AFAA0_08192020204231726664_OS1
+
+
+2020-08-19 23:48:07 ERROR Communicator:458 - Read timed out
+com.fxcm.messaging.util.CommunicationException: Read timed out
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-19 23:48:07 ERROR Communicator:459 - Read timed out: Message type=U54
+112=GBDEMO_9D79F92CB7FF7F1EE053E12B3C0AFAA0_08192020204231726664_OS1-47
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=894;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F92CB7FF7F1EE053E12B3C0AFAA0_08192020204231726664_OS1
+
+
+2020-08-19 23:48:07 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-19 23:48:07 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-20 00:06:10 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 00:06:10 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D79F92CD16A7F1EE053E12B3C0AFAA0_08192020214813440166_6W6-34
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92CD16A7F1EE053E12B3C0AFAA0_08192020214813440166_6W6
+
+
+2020-08-20 00:25:29 ERROR Communicator:458 - Network is down (connect failed)
+com.fxcm.messaging.util.CommunicationException: Network is down (connect failed)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 00:25:29 ERROR Communicator:459 - Network is down (connect failed): Message type=U54
+112=GBDEMO_9D79F92CDBC57F1EE053E12B3C0AFAA0_08192020221341248632_NJS-47
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D79F92CDBC57F1EE053E12B3C0AFAA0_08192020221341248632_NJS
+
+
+2020-08-20 00:25:31 ERROR Communicator:458 - Connection reset
+com.fxcm.messaging.util.CommunicationException: Connection reset
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 00:25:31 ERROR Communicator:459 - Connection reset: Message type=U54
+112=GBDEMO_9D79F92CDBC57F1EE053E12B3C0AFAA0_08192020221341248632_NJS-46
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F92CDBC57F1EE053E12B3C0AFAA0_08192020221341248632_NJS
+
+
+2020-08-20 00:25:34 ERROR PDasSessionAdapter:271 - onMessageRecieved::Force reconnect from server. Update session state::19915;DAS 19915: ZDas Exception ORA-20103: Session expired
+2020-08-20 00:25:36 ERROR Communicator:458 - Socket closed
+com.fxcm.messaging.util.CommunicationException: Socket closed
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 00:25:36 ERROR Communicator:459 - Socket closed: Message type=U54
+112=GBDEMO_9D79F92CDBC57F1EE053E12B3C0AFAA0_08192020221341248632_NJS-27
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=894;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D79F92CDBC57F1EE053E12B3C0AFAA0_08192020221341248632_NJS
+
+
+2020-08-20 12:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-8
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=1
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-10
+336=FXCM
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-9
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-11
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-12
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-13
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-14
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:16:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-15
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:16:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:16:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-16
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-17
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=1
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-18
+336=FXCM
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-19
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-20
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-21
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-22
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-23
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-24
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-25
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-26
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-27
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-28
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:31:14 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:31:14 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-29
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=1
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-31
+336=FXCM
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-30
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-32
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-33
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-34
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-35
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-36
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-37
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-38
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-39
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-40
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 12:46:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 12:46:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-41
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-42
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=1
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-43
+336=FXCM
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-44
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-45
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-46
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-47
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-48
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-49
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-50
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-51
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-52
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:01:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:01:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-53
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-54
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=1
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-55
+336=FXCM
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-56
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-57
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-58
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-59
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-60
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-61
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-62
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-63
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-64
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:16:14 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:16:14 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-65
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=1
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-67
+336=FXCM
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-68
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-66
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+--------
+9028=37
+625=GBDEMO
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-69
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-70
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-71
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:31:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:31:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-72
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:31:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:31:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-73
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:31:13 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:31:13 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-74
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=1;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:46:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:46:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=BE
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-77
+336=FXCM
+625=GBDEMO
+923=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-77
+924=2
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 13:46:13 ERROR Communicator:458 - Socket closed
+com.fxcm.messaging.util.CommunicationException: Socket closed
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 13:46:13 ERROR Communicator:459 - Socket closed: Message type=U54
+112=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY-5
+336=FXCM
+9016=list
+--------
+1:	9018=0;9017=BrcastID;
+2:	9018=0;9017=MsgID;
+3:	9018=0;9017=MailID;
+4:	9018=894;9017=MessageFlags;
+5:	9018=3000;9017=TimeOut;
+--------
+9028=0
+625=GBDEMO
+WaitTime=3000
+SID=GBDEMO_9D7A3BEB29127F24E053E12B3C0ADD34_08192020222541710184_3YY
+
+
+2020-08-20 14:16:12 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 14:16:12 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=BE
+112=NewSession-48753187-1152070631-UniversalUserSessionRelogger
+553=D25822955
+554=qN0fqs+GGUyIXOUPRL7XGdMOuE0=
+9016=list
+--------
+1:	9018=J7.6.1807.1311;9017=aClientTransport;
+2:	9018=0;9017=MessageFlags;
+3:	9018=82.255.43.221;Haris-MacBook.local;;9017=aRemoteAddress;
+4:	9018=JAVA-API;9017=aRemoteAppName;
+5:	9018=brokerageclients.fxcm.FXCMAPIBrokerageClient;9017=aRemoteAppCode;
+6:	9018=yes;9017=asynch;
+--------
+336=FXCM
+625=GBDEMO
+923=NewSession-48753187-1152070631-UniversalUserSessionRelogger
+924=1
+SID=null
+
+
+2020-08-20 14:31:14 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 14:31:14 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=BE
+112=NewSession-50552070-878277338-UniversalUserSessionRelogger
+553=D25822955
+554=qN0fqs+GGUyIXOUPRL7XGdMOuE0=
+9016=list
+--------
+1:	9018=J7.6.1807.1311;9017=aClientTransport;
+2:	9018=0;9017=MessageFlags;
+3:	9018=82.255.43.221;Haris-MacBook.local;;9017=aRemoteAddress;
+4:	9018=JAVA-API;9017=aRemoteAppName;
+5:	9018=brokerageclients.fxcm.FXCMAPIBrokerageClient;9017=aRemoteAppCode;
+6:	9018=yes;9017=asynch;
+--------
+336=FXCM
+625=GBDEMO
+923=NewSession-50552070-878277338-UniversalUserSessionRelogger
+924=1
+SID=null
+
+
+2020-08-20 15:04:10 ERROR Communicator:458 - pdemo.fxcorporate.com
+com.fxcm.messaging.util.CommunicationException: pdemo.fxcorporate.com
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.httpSend(HttpCommunicator.java:334)
+	at com.fxcm.messaging.util.pdas.communicator.http.HttpCommunicator.trnSend(HttpCommunicator.java:128)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.request(Communicator.java:438)
+	at com.fxcm.messaging.util.pdas.communicator.Communicator.run(Communicator.java:327)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-20 15:04:10 ERROR Communicator:459 - pdemo.fxcorporate.com: Message type=BE
+112=NewSession-53428773-2031230912-UniversalUserSessionRelogger
+553=D25822955
+554=qN0fqs+GGUyIXOUPRL7XGdMOuE0=
+9016=list
+--------
+1:	9018=J7.6.1807.1311;9017=aClientTransport;
+2:	9018=0;9017=MessageFlags;
+3:	9018=82.255.43.221;Haris-MacBook.local;;9017=aRemoteAddress;
+4:	9018=JAVA-API;9017=aRemoteAppName;
+5:	9018=brokerageclients.fxcm.FXCMAPIBrokerageClient;9017=aRemoteAppCode;
+6:	9018=yes;9017=asynch;
+--------
+336=FXCM
+625=GBDEMO
+923=NewSession-53428773-2031230912-UniversalUserSessionRelogger
+924=1
+SID=null
+
+
